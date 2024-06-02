@@ -7,7 +7,7 @@ Create MongoDB Atlas Cluster and Database
   
 * Create a Cluster: \
       - After logging in, create a new cluster. \
-      - Follow the on-screen instructions to set up your cluster. This usually involves selecting a cloud provider, region, and instance size. \
+      - Follow the on-screen instructions to set up your cluster. This usually involves selecting a cloud provider, region, and instance size.
 
 * Create a Database and Collection: \
       - Once your cluster is created and running, click on the "Collections" tab. \
