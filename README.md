@@ -5,18 +5,18 @@ Create MongoDB Atlas Cluster and Database \
       - Go to MongoDB Atlas. \
       - Sign up for a new account or log in if you already have one. \
   
-\t  Create a Cluster: \
-\t\t    After logging in, create a new cluster. \
-\t\t    Follow the on-screen instructions to set up your cluster. This usually involves selecting a cloud provider, region, and instance size. \
+* Create a Cluster: \
+      - After logging in, create a new cluster. \
+      - Follow the on-screen instructions to set up your cluster. This usually involves selecting a cloud provider, region, and instance size. \
 
-\t  Create a Database and Collection: \
-\t\t    Once your cluster is created and running, click on the "Collections" tab. \
-\t\t    Click on the "Add My Own Data" button. \
-\t\t    Enter "barsaati" for the database name. \
-\t\t    Enter "trendingTopics" for the collection name. \
-\t\t    Click "Create". \
+* Create a Database and Collection: \
+      - Once your cluster is created and running, click on the "Collections" tab. \
+      - Click on the "Add My Own Data" button. \
+      - Enter "barsaati" for the database name. \
+      - Enter "trendingTopics" for the collection name. \
+      - Click "Create". \
 
-\t\t    Copy the connection string and configure application.properties in spring boot \
+* Copy the connection string and configure application.properties in spring boot \
 
     
 
