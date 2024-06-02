@@ -1,7 +1,7 @@
 # barsaatiAssgn
 
 Create MongoDB Atlas Cluster and Database \
-\t  Sign Up / Log In to MongoDB Atlas: \
+"\t"  Sign Up / Log In to MongoDB Atlas: \
 \t\t    Go to MongoDB Atlas. \
 \t\t    Sign up for a new account or log in if you already have one. \
   
