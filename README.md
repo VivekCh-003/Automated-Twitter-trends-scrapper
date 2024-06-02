@@ -5,11 +5,11 @@ Create MongoDB Atlas Cluster and Database
       - Go to MongoDB Atlas. 
       - Sign up for a new account or log in if you already have one. 
   
-* Create a Cluster: 
-      - After logging in, create a new cluster. 
-      - Follow the on-screen instructions to set up your cluster. This usually involves selecting a cloud provider, region, and instance size. 
+* Create a Cluster: \
+      - After logging in, create a new cluster. \
+      - Follow the on-screen instructions to set up your cluster. This usually involves selecting a cloud provider, region, and instance size. \
 
-* Create a Database and Collection: 
+* Create a Database and Collection: \
       - Once your cluster is created and running, click on the "Collections" tab. 
       - Click on the "Add My Own Data" button. 
       - Enter "barsaati" for the database name. 
