@@ -14,7 +14,7 @@ Create MongoDB Atlas Cluster and Database
       - Click on the "Add My Own Data" button. \
       - Enter "barsaati" for the database name. \
       - Enter "trendingTopics" for the collection name. \ 
-      - Click "Create". \
+      - Click "Create". 
 
 * Copy the connection string and configure application.properties in spring boot 
 
