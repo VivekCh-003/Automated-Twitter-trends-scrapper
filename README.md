@@ -2,8 +2,8 @@
 
 Create MongoDB Atlas Cluster and Database \
 *  Sign Up / Log In to MongoDB Atlas: \
-\t\t    Go to MongoDB Atlas. \
-\t\t    Sign up for a new account or log in if you already have one. \
+      - Go to MongoDB Atlas. \
+      - Sign up for a new account or log in if you already have one. \
   
 \t  Create a Cluster: \
 \t\t    After logging in, create a new cluster. \
