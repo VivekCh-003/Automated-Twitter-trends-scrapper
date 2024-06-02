@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Trending Topics</title>
+</head>
+<body>
+        <a href="/scrape">Click here to run the script.</a>
+        <div th:if="${trendingTopics != null}">
+            <p>These are the most happening topics as on <span th:text="${trendingTopics.localDateTime}"></span>:</p>
+            <ul>
+                <li th:each="trend : ${trendingTopics.trends}" th:text="${trend}"></li>
+            </ul>
+            <p>The IP address used for this query was ===> <span th:text="${trendingTopics.ipAddress}"></span>.</p>
+            <p>Here's a JSON extract of this record from the MongoDB:</p>
+            <pre th:text="${trendingTopicsJson}"></pre>
+        </div>
+        <a href="/scrape">Click here to run the query again.</a>
+</body>
+</html>
